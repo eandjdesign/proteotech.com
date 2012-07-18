@@ -1,0 +1,28 @@
+.style2,.style3,.style4 {font-size:8pt;}
+.style3,.style4,.indexTable th { font-weight: bold; }
+.indexTable {margin:0;width:560px;}
+.indexTable td {
+	text-align:center;
+}
+.indexTable tr.disease-targets td {
+	padding-top:30px;
+	font-weight:bold;
+	text-align:center;
+	font-size:14px;
+}
+.indexTable span {
+	display:block;
+}
+.indexTable tr.disease-targets span {
+	color:#f00;
+}
+.indexTable tr.disease-images td {
+	vertical-align:middle;
+	text-align:center;
+}
+.indexTable tr.disease-images img {
+	cursor:pointer;
+}
+.indexTable tr.disease-captions td {
+	vertical-align:top;
+}

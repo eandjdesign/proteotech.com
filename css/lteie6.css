@@ -1,0 +1,17 @@
+#p7PMnav a {
+	height: auto !important;
+}
+#p7PMnav a {
+	height:1em;
+}
+#p7PMnav li {
+	height:1em;
+}
+#p7PMnav ul a {
+	height: 1em !important;
+}
+#p7PMnav ul li {
+	float:left;
+	clear:both;
+	width:100%
+}
