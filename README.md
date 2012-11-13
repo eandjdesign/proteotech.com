@@ -2,12 +2,39 @@ PTECH TODO:
 ------------------------------------
 
 ================================================================================================
-================================================================================================
+11/13/12
+PTECH START: 14:15
+PTECH  STOP: 
+LOGGED IN QB? 
+
+1. pipeline > systebryl > Change all "AL Amyloidosis" back to "Systebryl™"
+2. pipeline > systebryl > insert "approximately"
+3. pipeline > exebryl > Change all "AL Amyloidosis" back to "Systebryl™"
+4. pipeline > pepticlere > Change all "AL Amyloidosis" back to "Systebryl™"
+5. pipeline > synuclere > Change all "AL Amyloidosis" back to "Systebryl™"
+
+6.  our tech > proteoglycan > change all "Systemic AA disease" to "AL Amyloidosis"
+7.  our tech > alzheimers_small > change all "Systemic AA disease" to "AL Amyloidosis"
+8.  our tech > therapeutic_approach > change all "Systemic AA disease" to "AL Amyloidosis"
+9.  our tech > alzheimers_peptide > change all "Systemic AA disease" to "AL Amyloidosis"
+10. our tech > parkinsons > change all "Systemic AA disease" to "AL Amyloidosis"
+
+11. our tech > systemic > change all "Systemic AA disease" to "AL Amyloidosis"
+12. our tech > systemic > delete "the world's"
+13. our tech > systemic > delete "and only"
+14. our tech > systemic > insert "approximately"
+15. our tech > systemic > change text on right column under picture to "AL Amyloidosis attacks key organs"
+
+Notes:
+1. our tech > systemic > delete "the world's" --> Left in "the"
+
+
+
 ================================================================================================
 11/12/12
 PTECH START: 20:15
-PTECH  STOP: 23:00
-LOGGED IN QB?
+PTECH  STOP: 23:30
+LOGGED IN QB? YES
 
 Batch 1 Changes:
 1. replace company overview PDF
@@ -40,11 +67,10 @@ Notes:
 
 
 ================================================================================================
-================================================================================================
-================================================================================================
 11/09/12
 PTECH START: 22:45
 PTECH  STOP:  0:45
+LOGGED IN QB? YES
 
 1. about > history > 2nd paragraph last sentence. Please place .(period) outside of the parenthesis.
 2. about > leadership team > move Merlini below Eliezer
@@ -66,11 +92,10 @@ Ask about proteoglycan page changes (two different images in two separate emails
 
 
 ================================================================================================
-================================================================================================
-================================================================================================
 11/08/12
 PTECH START: 20:30
 PTECH  STOP: 23:45
+LOGGED IN QB? YES
 
 1. change text in upper right corner
 2. change copyright
