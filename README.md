@@ -7,26 +7,16 @@ PTECH START: 14:15
 PTECH  STOP: 
 LOGGED IN QB? 
 
-1. pipeline > systebryl > Change all "AL Amyloidosis" back to "Systebryl™"
-2. pipeline > systebryl > insert "approximately"
-3. pipeline > exebryl > Change all "AL Amyloidosis" back to "Systebryl™"
-4. pipeline > pepticlere > Change all "AL Amyloidosis" back to "Systebryl™"
-5. pipeline > synuclere > Change all "AL Amyloidosis" back to "Systebryl™"
-
-6.  our tech > proteoglycan > change all "Systemic AA disease" to "AL Amyloidosis"
-7.  our tech > alzheimers_small > change all "Systemic AA disease" to "AL Amyloidosis"
-8.  our tech > therapeutic_approach > change all "Systemic AA disease" to "AL Amyloidosis"
-9.  our tech > alzheimers_peptide > change all "Systemic AA disease" to "AL Amyloidosis"
-10. our tech > parkinsons > change all "Systemic AA disease" to "AL Amyloidosis"
-
-11. our tech > systemic > change all "Systemic AA disease" to "AL Amyloidosis"
-12. our tech > systemic > delete "the world's"
-13. our tech > systemic > delete "and only"
-14. our tech > systemic > insert "approximately"
-15. our tech > systemic > change text on right column under picture to "AL Amyloidosis attacks key organs"
-
-16. our tech > alzheimer's peptide > replace picture
-17. navigation > unbold "Exebryl1®"
+pipeline > systebryl > insert "approximately"
+pipeline > systebryl/exebryl/pepticlere/synuclere > Change all "AL Amyloidosis" back to "Systebryl™"
+our tech > proteoglycan/alzheimers_small/therapeutic_approach/alzheimers_peptide/parkinsons > change all "Systemic AA disease" to "AL Amyloidosis"
+our tech > systemic > change all "Systemic AA disease" to "AL Amyloidosis"
+our tech > systemic > delete "the world's"
+our tech > systemic > delete "and only"
+our tech > systemic > insert "approximately"
+our tech > systemic > change text on right column under picture to "AL Amyloidosis attacks key organs"
+our tech > alzheimer's peptide > replace picture
+navigation > unbold "Exebryl1®"
 
 Notes:
 1. our tech > systemic > delete "the world's" --> Left in "the"
