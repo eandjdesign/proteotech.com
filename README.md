@@ -2,6 +2,46 @@ PTECH TODO:
 ------------------------------------
 
 ================================================================================================
+================================================================================================
+================================================================================================
+11/12/12
+PTECH START: 20:15
+PTECH  STOP: 23:00
+LOGGED IN QB?
+
+Batch 1 Changes:
+1. replace company overview PDF
+2. home > switch two images
+3. about > mission > replace image
+4. about > targets > replace image
+5. our tech > alzheimers small > replace human figure
+6. our tech > alzheimers peptide > replace human figure
+7. our tech > proteoglycan > replace image
+8. our tech > systemic > replace human figure
+9. pipeline > overview > replace image (modified)
+
+Batch 2 Changes:
+10. about > mission > change the wording "orphan" to "fare"
+11. our tech > alzheimers peptide > Please delete "via intranasal application"
+12. home > Please delete "as nasal spray for the"
+13. our tech > systemic > Please replace  "causes reduction/clerance", insert "stage III", delete "does not work in" replace it with "is not effective in approximately", delete "in a pivotal 6 month .......and therefore be the only drug to increase survivability."
+14. pipeline > systebryl > Please insert "and" insert "stage III" insert "approx", delete" In a pivotal 6-month..., and therefore be the only drug to increase survivability. Also delete " To date, .....from human autopsy causes."
+15. pipeline > systebryl >  replace all "Systebryl TM" under pipeline's drug tabs at upper right hand side (blue color) to "AL amyloidosis"
+16. pipeline > exebryl-1 >  replace all "Systebryl TM" under pipeline's drug tabs at upper right hand side (blue color) to "AL amyloidosis"
+17. pipeline > pepticlere > replace all "Systebryl TM" under pipeline's drug tabs at upper right hand side (blue color) to "AL amyloidosis"
+18. pipeline > synuclere >  replace all "Systebryl TM" under pipeline's drug tabs at upper right hand side (blue color) to "AL amyloidosis"
+
+
+Notes:
+1. pipeline > overview > modified image slightly (removing some spacing)
+2. our tech > alzheimer's peptide > removed "intranasal" keyword from meta information
+3. our tech > systemic > followed notes on PDF, not email.
+4. pipeline > systebryl, exebryl-1, pepticlere, synuclere > changed from image to text as I do not have the original art
+
+
+================================================================================================
+================================================================================================
+================================================================================================
 11/09/12
 PTECH START: 22:45
 PTECH  STOP:  0:45
@@ -25,6 +65,8 @@ PTECH  STOP:  0:45
 Ask about proteoglycan page changes (two different images in two separate emails)
 
 
+================================================================================================
+================================================================================================
 ================================================================================================
 11/08/12
 PTECH START: 20:30

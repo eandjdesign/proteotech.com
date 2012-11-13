@@ -106,20 +106,20 @@
 					</ul>
 				</div>
 				<table width="895" border="0" cellspacing="0" cellpadding="0">
-		      <tr class="curvy"><td><img src="images/curves_top.gif" alt="Proteotech" width="895" height="16"/></td></tr>
+					<tr class="curvy"><td><img src="images/curves_top.gif" alt="Proteotech" width="895" height="16"/></td></tr>
 					<tr>
 						<td class="BG_content_fill">
 							<div id="column1">
 								<p><img src="images/title_contact.gif" width="276" height="45" /></p>
 								<p align="center">
 									<strong>ProteoTech, Inc</strong>. <br />
-									12040 115th    Ave., NE<br />
-									Kirkland,   WA  98034
+									12040 115th	Ave., NE<br />
+									Kirkland, WA 98034
 								</p>
-																<p align="center">
+								<p align="center">
 									<strong>Office:</strong> (425) 823-0400<br />
 									<strong>Fax:</strong> (425) 823-8508<br />
-									<strong>E-mail:</strong>  <a href="mailto:info@proteotech.com">info@proteotech.com</a>
+									<strong>E-mail:</strong> <a href="mailto:info@proteotech.com">info@proteotech.com</a>
 								</p>
 							</div>
 							<div id="column2">
@@ -128,7 +128,7 @@
 							</div>
 						</td>
 					</tr>
-		      <tr class="curvy"><td><img src="images/curves_bottom.gif" alt="Proteotech" width="895" height="16" /></td></tr>
+					<tr class="curvy"><td><img src="images/curves_bottom.gif" alt="Proteotech" width="895" height="16" /></td></tr>
 				</table>
 			</div>
 		</div>
