@@ -25,8 +25,12 @@ LOGGED IN QB?
 14. our tech > systemic > insert "approximately"
 15. our tech > systemic > change text on right column under picture to "AL Amyloidosis attacks key organs"
 
+16. our tech > alzheimer's peptide > replace picture
+17. navigation > unbold "Exebryl1®"
+
 Notes:
 1. our tech > systemic > delete "the world's" --> Left in "the"
+2. per PDF, assumed you only wanted Exebryl-1 in the navigation unbolded, not across the site.
 
 
 
