@@ -4,19 +4,20 @@ PTECH TODO:
 ================================================================================================
 11/13/12
 PTECH START: 14:15
-PTECH  STOP: 
+PTECH  STOP: 16:45
 LOGGED IN QB? 
 
-pipeline > systebryl > insert "approximately"
-pipeline > systebryl/exebryl/pepticlere/synuclere > Change all "AL Amyloidosis" back to "Systebryl™"
-our tech > proteoglycan/alzheimers_small/therapeutic_approach/alzheimers_peptide/parkinsons > change all "Systemic AA disease" to "AL Amyloidosis"
-our tech > systemic > change all "Systemic AA disease" to "AL Amyloidosis"
-our tech > systemic > delete "the world's"
-our tech > systemic > delete "and only"
-our tech > systemic > insert "approximately"
-our tech > systemic > change text on right column under picture to "AL Amyloidosis attacks key organs"
-our tech > alzheimer's peptide > replace picture
-navigation > unbold "Exebryl1®"
+1. pipeline > systebryl > insert "approximately"
+2. pipeline > systebryl/exebryl/pepticlere/synuclere > Change all "AL Amyloidosis" back to "Systebryl™"
+3. our tech > proteoglycan/alzheimers_small/therapeutic_approach/alzheimers_peptide/parkinsons > change all "Systemic AA disease" to "AL Amyloidosis"
+4. our tech > systemic > change all "Systemic AA disease" to "AL Amyloidosis"
+5. our tech > systemic > delete "the world's"
+6. our tech > systemic > delete "and only"
+7. our tech > systemic > insert "approximately"
+8. our tech > systemic > change text on right column under picture to "AL Amyloidosis attacks key organs"
+9. our tech > alzheimer's peptide > replace picture
+10. navigation > unbold "Exebryl1®"
+11. homepage text edit
 
 Notes:
 1. our tech > systemic > delete "the world's" --> Left in "the"
