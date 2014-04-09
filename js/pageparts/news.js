@@ -8,6 +8,9 @@ document.write('<h3>News</h3>\
 		<div id="p7VSC_1" class="p7VSC07">\
 			<div id="p7VSCb_1" class="p7VSC_scrollbox">\
 				<div id="p7VSCd_1_c1" class="p7VSC_scrolling">\
+					<p class="news-item"><span>April, 2014</span> Dr. Joann Data Joins ProteoTech as Chief Medical Officer.</p>\
+					<p class="news-item"><span>January, 2014</span> Dr. Roger Flugel Joins ProteoTech as Chief Business Officer.</p>\
+					<p class="news-item"><span>May, 2013</span> ProteoTech to Receive $2.27M Phase II SBIR Award from the National Institute on Aging to Identify Small Molecule Inhibitors of Tau Protein Aggregation for Alzheimer\'s Disease and other Taupathies.</p>\
 					<p class="news-item"><span>July 18, 2012</span> ProteoTech to present at The Alzheimer\'s Association International Conference 2012 (AAIC)&reg; in Vancouver, British Columbia, Canada.</p>\
 					<p class="news-item"><span>April 23, 2012</span> ProteoTech\'s Chief Scientific Officer, Dr. Alan Snow, to Present New Data at the XIIIth International Symposium on Amyloidosis</p>\
 					<p class="news-item"><span>December 20, 2011</span> ProteoTech Announces Drug Development Collaborative Agreement with GlaxoSmithKline for New Parkinson\'s Therapeutic</p>\
