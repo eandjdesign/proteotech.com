@@ -270,6 +270,16 @@ p.date {
 	margin-bottom: 0;
 }
 
+
+.dashed-bullets li {
+	list-style: none;
+	position: relative;
+}
+.dashed-bullets li:before {
+	content: "-";
+	position: absolute;
+	left: -10px;
+}
 /* PAGE FOOTER
 ------------------*/
 #footer{
