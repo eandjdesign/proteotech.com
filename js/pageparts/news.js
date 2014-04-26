@@ -15,7 +15,6 @@ document.write('<h3>News</h3>\
 					<p class="news-item"><span>February 15, 2014</span> Dr. Roger Flugel Joins ProteoTech as Chief Business Officer.</p>\
 					<p class="news-item"><span>September 1, 2013</span> ProteoTech Receives $2.29M Phase II SBIR Award from the National Institute on Aging to Identify Small Molecule Inhibitors of Tau Protein Aggregation for Alzheimer\'s Disease and other Taupathies.</p>\
 					<p class="news-item"><span>August 1, 2013</span> Dr. Rudolph Tanzi Joins ProteoTech’s Scientific Advisory Board</p>\
-					<p class="news-item"><span>May, 2013</span> ProteoTech to Receive $2.27M Phase II SBIR Award from the National Institute on Aging to Identify Small Molecule Inhibitors of Tau Protein Aggregation for Alzheimer\'s Disease and other Taupathies.</p>\
 					<a href="/news/news_press.html" title="Read More News">Read More</a>\
 				</div>\
 			</div>\
