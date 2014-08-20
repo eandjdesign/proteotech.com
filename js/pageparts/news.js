@@ -8,6 +8,7 @@ document.write('<h3>News</h3>\
 		<div id="p7VSC_1" class="p7VSC07">\
 			<div id="p7VSCb_1" class="p7VSC_scrollbox">\
 				<div id="p7VSCd_1_c1" class="p7VSC_scrolling">\
+					<p class="news-item"><span>July 16, 2014</span> Dr. Qubai Hu, Director of Molecular Biology, will present at the <a href="http://www.alz.org/aaic/" target="_blank">Alzheimer\'s Association International Conference</a> (AAIC) &reg;</p>\
 					<p class="news-item"><span>May 5, 2014</span> ProteoTech Selected to Present at the Prestigious Cavendish Global Health Impact Forum at the United Nations, New York, NY</p>\
 					<p class="news-item"><span>May 1, 2014</span> ProteoTech’s Chief Scientific Officer to Present at the XIV International Symposium on Amyloidosis, Indianapolis, IN</p>\
 					<p class="news-item"><span>April 8, 2014</span> ProteoTech’s New Chief Business Officer (Dr. Roger Flugel) Presents at the 13th Annual Needham Healthcare Conference, New York, NY</p>\
