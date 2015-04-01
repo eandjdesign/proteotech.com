@@ -7,6 +7,7 @@ document.write('<h3>News</h3>\
 		<div id="p7VSC_1" class="p7VSC07">\
 			<div id="p7VSCb_1" class="p7VSC_scrollbox">\
 				<div id="p7VSCd_1_c1" class="p7VSC_scrolling">\
+					<p class="news-item"><span>March 18–22, 2015</span> ProteoTech Presents Updates on Synuclere&trade; and TauPro&trade; at The 12th International Conference on Alzheimer\'s and Parkinson\'s Diseases</p>\
 					<p class="news-item"><span>January 12, 2015</span> ProteoTech is Granted Orphan Drug Designation for Systebryl&trade; (PTI-110) for the Treatment of AL  Amyloidosis</p>\
 					<p class="news-item"><span>January 12, 2015</span> ProteoTech Appoints Dr. Roger Flugel as Chief Executive Officer</p>\
 					<p class="news-item"><span>July 16, 2014</span> Dr. Qubai Hu, Director of Molecular Biology, to present at the Alzheimer\'s Association International Conference (AAIC) &reg;</p>\
@@ -16,7 +17,6 @@ document.write('<h3>News</h3>\
 					<p class="news-item"><span>March 21, 2014</span> Dr. Joann Data Joins ProteoTech as Chief Medical Officer.</p>\
 					<p class="news-item"><span>February 15, 2014</span> Dr. Roger Flugel Joins ProteoTech as Chief Business Officer.</p>\
 					<p class="news-item"><span>September 1, 2013</span> ProteoTech Receives $2.29M Phase II SBIR Award from the National Institute on Aging to Identify Small Molecule Inhibitors of Tau Protein Aggregation for Alzheimer\'s Disease and other Taupathies.</p>\
-					<p class="news-item"><span>August 1, 2013</span> Dr. Rudolph Tanzi Joins ProteoTech’s Scientific Advisory Board</p>\
 					<a href="/news/news_press.html" title="Read More News">Read More</a>\
 				</div>\
 			</div>\
